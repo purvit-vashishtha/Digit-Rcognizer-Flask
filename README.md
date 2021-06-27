@@ -1,1 +1,1 @@
-Flask App for MNIST Data.
+Digit Recognizer app using github pages.
