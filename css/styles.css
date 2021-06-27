@@ -13,7 +13,7 @@
 #clear_button{
   margin-left: 15px;
   font-weight: bold;
-  color: blue;
+  color:black;
 }
 
 #confidence{
@@ -31,7 +31,7 @@
    text-align: center;
    position: relative;
    color: honeydew;
-   background-color: greenyellow;
+   background-color: orange;
    padding-top: 1%;
    padding-bottom: 1%;
    font-weight: bold;
